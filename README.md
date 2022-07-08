@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Mohammed
-- 👀 I’m interested in Data analytics, Data science and evrything Data
+- 👀 I’m interested in Data analytics, Data science and everything Data
 - 🌱 I’m currently taking a Professional certification course on Data analytics by Google
 - 💞️ I’m looking to collaborate on interesting projects in the future
 - 📫 How to reach me ...On twitter @mdfitz2042
